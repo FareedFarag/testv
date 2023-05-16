@@ -1,7 +1,7 @@
 <html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">&lt;?xml version="1.0" encoding="utf-8"?&gt;
 &lt;style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" page-range-format="expanded" default-locale="en-GB"&gt;
   &lt;info&gt;
-    &lt;title&gt;CUSTOM_STYLE&lt;/title&gt;
+    &lt;title&gt;CUSTOM STYLE&lt;/title&gt;
     &lt;id&gt;http://www.zotero.org/styles/biological-reviews&lt;/id&gt;
     &lt;link href="http://www.zotero.org/styles/biological-reviews" rel="self"/&gt;
     &lt;link href="http://www.zotero.org/styles/oryx" rel="template"/&gt;
@@ -16,7 +16,7 @@
     &lt;issn&gt;1464-7931&lt;/issn&gt;
     &lt;eissn&gt;1469-185X&lt;/eissn&gt;
     &lt;issnl&gt;0006-3231&lt;/issnl&gt;
-    &lt;summary&gt;Style for CUSTOM_STYLE, aka CUSTOM_STYLE of the Cambridge Philosophical Society&lt;/summary&gt;
+    &lt;summary&gt;Style for CUSTOM STYLE, aka CUSTOM STYLE of the Cambridge Philosophical Society&lt;/summary&gt;
     &lt;updated&gt;2022-06-29T10:11:09+00:00&lt;/updated&gt;
     &lt;rights license="http://creativecommons.org/licenses/by-sa/3.0/"&gt;This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License&lt;/rights&gt;
   &lt;/info&gt;
